@@ -10,3 +10,4 @@ To run this app, you need:
 - `JRE`: A Java runtime environment installed on your PC
 - `SQL SERVER (2022 version at the moment) Configuration Manager`: Download it from the Microsoft official site
 - `Microsoft SQL Server Management Studio (v.19 at the moment)`: Download it from the Microsoft official site
+- `bin`: If it doesn't exist in the repository, add a bin folder outside of the src folder
